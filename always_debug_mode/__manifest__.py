@@ -1,6 +1,6 @@
 {
     'name': 'Always Debug Mode',
-    'version': '16.0.1.0.0',
+    'version': '18.0.1.0.0',
     'category': 'Tools',
     'summary': 'Automatically enable debug mode for selected users',
     'description': 'Adds an option to always enable debug mode for specific users. If enabled, debug=1 is appended to the URL after login or homepage visit.',
